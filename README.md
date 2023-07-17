@@ -19,6 +19,8 @@
 }
 
 
-# npm install
+# Run the following commands to install the required node modules:
+npm install
 
-# npm start
+# To run the file:
+npm start
