@@ -3,46 +3,46 @@ import NewPokemon from "./components/NewPokemon/NewPokemon";
 import React, { useState } from "react";
 
 const initial_party = [
-  {
-    key: Math.random().toString(),
-    id: 448,
-    name: "Lucario",
-    hp: 126,
-    level: 35,
-    caughtDate: new Date(2022, 7, 14),
-  },
-  {
-    key: Math.random().toString(),
-    id: 350,
-    name: "Milotic",
-    hp: 148,
-    level: 36,
-    caughtDate: new Date(2023, 2, 12),
-  },
-  {
-    key: Math.random().toString(),
-    id: 257,
-    name: "Blaziken",
-    hp: 140,
-    level: 37,
-    caughtDate: new Date(2022, 2, 28),
-  },
-  {
-    key: Math.random().toString(),
-    id: 408,
-    name: "Cranidos",
-    hp: 95,
-    level: 26,
-    caughtDate: new Date(2022, 5, 12),
-  },
-  {
-    key: Math.random().toString(),
-    id: 150,
-    name: "Mewtwo",
-    hp: 269,
-    level: 64,
-    caughtDate: new Date(2022, 7, 14),
-  },
+  // {
+  //   key: Math.random().toString(),
+  //   id: 448,
+  //   name: "Lucario",
+  //   hp: 126,
+  //   level: 35,
+  //   caughtDate: new Date(2022, 7, 14),
+  // },
+  // {
+  //   key: Math.random().toString(),
+  //   id: 350,
+  //   name: "Milotic",
+  //   hp: 148,
+  //   level: 36,
+  //   caughtDate: new Date(2023, 2, 12),
+  // },
+  // {
+  //   key: Math.random().toString(),
+  //   id: 257,
+  //   name: "Blaziken",
+  //   hp: 140,
+  //   level: 37,
+  //   caughtDate: new Date(2022, 2, 28),
+  // },
+  // {
+  //   key: Math.random().toString(),
+  //   id: 408,
+  //   name: "Cranidos",
+  //   hp: 95,
+  //   level: 26,
+  //   caughtDate: new Date(2022, 5, 12),
+  // },
+  // {
+  //   key: Math.random().toString(),
+  //   id: 150,
+  //   name: "Mewtwo",
+  //   hp: 269,
+  //   level: 64,
+  //   caughtDate: new Date(2022, 7, 14),
+  // },
 ];
 
 const App = () => {

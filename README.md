@@ -1,7 +1,14 @@
-# PokemonList
+## PokemonList
 
-# Create a new folder titled '.vscode' and create a new file inside titled 'launch.json'
-# Paste the following inside the file:
+This project was built using React and Javascript! 
+
+I created this project as a way to showcase some of my favourite Pokemon and I thought it would be a fun way to learn and develop my React skills. 
+
+Users are able to add Pokemon to their own individual list using the 'Add Pokemon' button. By inputting a Pokemon's Pokedex entry number, they can personalize their Pokemon's name, HP value, level, and the date that they were captured. Furthermore, users have fun tools they can use to cutomize and gain insight into their team: they can organize their team based off the year that they were captured, and the average level of Pokemon captured within the same year.
+
+### Create a new folder titled '.vscode' and create a new file inside titled 'launch.json'
+### Paste the following inside the file:
+```
 {
     // Use IntelliSense to learn about possible attributes.
     // Hover to view descriptions of existing attributes.
@@ -17,10 +24,11 @@
         }
     ]
 }
+```
+## Requisites:
 
+### Run the following commands to install the required node modules:
+```npm install```
 
-# Run the following commands to install the required node modules:
-npm install
-
-# To run the file:
-npm start
+### To run the file:
+```npm start```
