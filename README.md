@@ -8,8 +8,8 @@ Users are able to add Pokemon to their own individual list using the 'Add Pokemo
 
 ## Requisites:
 
-# Create a new folder titled '.vscode' and create a new file inside titled 'launch.json'
-# Paste the following inside the file:
+### Create a new folder titled '.vscode' and create a new file inside titled 'launch.json'
+### Paste the following inside the file:
 ```
 {
     // Use IntelliSense to learn about possible attributes.
